@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>IPAddressInfo</name>
+        <order>100</order>
+        <roles>x_479612_iplookup.ipaddressinfo_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-01 19:39:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>edb0d6441bd78110eb818515ec4bcb29</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>IP Address Info</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IPLookup" source="x_479612_iplookup">862afd8c1bd38110eb818515ec4bcb2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">862afd8c1bd38110eb818515ec4bcb2e</sys_scope>
+        <sys_update_name>sys_app_application_edb0d6441bd78110eb818515ec4bcb29</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-01 20:43:21</sys_updated_on>
+        <title>IP Address Info</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
